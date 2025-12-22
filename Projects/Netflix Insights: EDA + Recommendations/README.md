@@ -30,12 +30,7 @@ Source: [Netflix Movies and TV Shows dataset (Kaggle)](https://www.kaggle.com/da
 * Movies commonly fall within the 80 to 120 minute range.
 * The recommendation system uses text similarity to suggest related titles.
 
-## Technologies & Libraries
 
-* Python (Pandas, NumPy)
-* Data Visualization (Matplotlib, Seaborn, Plotly)
-* Text Processing (TF-IDF Vectorizer)
-* Machine Learning (Scikit-learn for clustering)
 
 ## Usage
 
@@ -45,7 +40,5 @@ Source: [Netflix Movies and TV Shows dataset (Kaggle)](https://www.kaggle.com/da
 * Input any show or movie to get a list of similar titles.
 
 ## Potential Extensions
-
-* Add clustering with genre and duration features.
 * Include user ratings for personalized recommendations.
 * Predict content categories or popularity using machine learning models.
