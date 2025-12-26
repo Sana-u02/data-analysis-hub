@@ -1,5 +1,6 @@
-# Netflix Data Analysis & Recommendation System
-This project explores the Netflix Movies and TV Shows dataset to uncover patterns and trends. It includes Exploratory Data Analysis (EDA) and a content based recommendation system that suggests similar titles using text features.
+# Netflix Data Analysis and Recommendation System
+
+This project analyzes the Netflix Movies and TV Shows dataset to identify trends and patterns in content production. It also includes a content based recommendation system that suggests similar titles using text features.
 
 
 https://github.com/user-attachments/assets/d8d5a4fb-bef6-4ffb-be90-c94b31032f37
@@ -8,7 +9,10 @@ https://github.com/user-attachments/assets/d8d5a4fb-bef6-4ffb-be90-c94b31032f37
 
 #
 
-<img src="https://github.com/user-attachments/assets/3984b351-0a80-400e-b4f9-d969d58b960f" width="600">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3984b351-0a80-400e-b4f9-d969d58b960f" width="600">
+</p>
+
 
 
 
